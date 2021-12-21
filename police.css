@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: aqua;
+    font-style: italic;
+    font-family: fantasy;
+
+}
+label{
+    font-size: xx-large;
+}
+.back_button{
+background-color: aquamarine;
+}
